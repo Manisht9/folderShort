@@ -13,7 +13,7 @@ folders={
     'kmlFiles':['.kml','.kmz'],
     'netcdfFiles':['.nc'],
     'zipFiles':['.zip','.rar','.tar.gz'],
-    'rasterFiles':['.tfw','.tif','.tif.aux.xml','tif.ovr','.tiff','.img','.jp2','.jgwx','.jpg','.jpg.aux.xml'],
+    'rasterFiles':['.tfw','.tif','.tif.aux.xml','.tif.ovr','.tiff','.img','.jp2','.jgwx','.jpg','.jpg.aux.xml'],
     'GeoJSON':['.json','.geojson'],
     'gisDocument':['.mxd','.qgs','.qgz']
 
